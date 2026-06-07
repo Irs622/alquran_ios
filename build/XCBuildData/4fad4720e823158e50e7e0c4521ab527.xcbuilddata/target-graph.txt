@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'alquran' in project 'alquran' (no dependencies)
