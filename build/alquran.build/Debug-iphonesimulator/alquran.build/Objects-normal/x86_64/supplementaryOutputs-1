@@ -1,0 +1,23 @@
+{
+  "/Users/mac/swift/alquran/alquran/Models/MockData.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/MockData.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/MockData.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/MockData.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/MockData.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/MockData.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Models/QuranModels.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuranModels.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuranModels.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuranModels.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuranModels.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuranModels.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Utilities/Theme.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/Theme.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/Theme.swiftdeps"
+  }
+}

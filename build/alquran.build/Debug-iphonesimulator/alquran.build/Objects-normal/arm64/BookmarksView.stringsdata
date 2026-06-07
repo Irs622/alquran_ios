@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/swift/alquran/alquran/Views/BookmarksView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Bookmarks",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      }
+    ]
+  },
+  "version": 1
+}

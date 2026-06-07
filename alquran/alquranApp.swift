@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct alquranApp: App {
+struct QuranCompanionApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
 }

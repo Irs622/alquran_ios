@@ -1,0 +1,23 @@
+{
+  "/Users/mac/swift/alquran/alquran/Views/Components/QuickActionButton.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuickActionButton.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuickActionButton.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuickActionButton.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuickActionButton.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/QuickActionButton.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/SectionHeaderView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SectionHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SectionHeaderView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SectionHeaderView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SectionHeaderView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SectionHeaderView.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/SurahCardView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SurahCardView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SurahCardView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SurahCardView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SurahCardView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/x86_64/SurahCardView.swiftdeps"
+  }
+}

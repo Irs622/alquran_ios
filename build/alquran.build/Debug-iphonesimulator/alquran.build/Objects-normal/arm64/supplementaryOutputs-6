@@ -1,0 +1,23 @@
+{
+  "/Users/mac/swift/alquran/alquran/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/SettingsViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/EmptyStateView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.swiftdeps"
+  }
+}

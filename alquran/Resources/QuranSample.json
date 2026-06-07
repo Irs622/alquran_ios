@@ -1,0 +1,45 @@
+{
+  "surahs": [
+    {
+      "number": 1,
+      "name": "الفاتحة",
+      "englishName": "Al-Fatiha",
+      "englishNameTranslation": "The Opening",
+      "numberOfAyahs": 7,
+      "revelationType": "Meccan",
+      "ayahs": [
+        {
+          "number": 1,
+          "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+          "numberInSurah": 1,
+          "juz": 1,
+          "page": 1
+        },
+        {
+          "number": 2,
+          "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+          "numberInSurah": 2,
+          "juz": 1,
+          "page": 1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "البقرة",
+      "englishName": "Al-Baqarah",
+      "englishNameTranslation": "The Cow",
+      "numberOfAyahs": 286,
+      "revelationType": "Medinan",
+      "ayahs": [
+        {
+          "number": 1,
+          "text": "الم",
+          "numberInSurah": 1,
+          "juz": 1,
+          "page": 2
+        }
+      ]
+    }
+  ]
+}

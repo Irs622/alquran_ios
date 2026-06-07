@@ -6,8 +6,22 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		04D9141500000000009FBF1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04D9131500000000009FBF1A /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		04D907632FD476A8009FBF1A /* alquran.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = alquran.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04D9130000000000009FBF1A /* alquranApp.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = alquranApp.swift; sourceTree = "<group>"; };
+		04D9130100000000009FBF1A /* ContentView.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = ContentView.swift; sourceTree = "<group>"; };
+		04D9130200000000009FBF1A /* Models/QuranModels.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Models/QuranModels.swift; sourceTree = "<group>"; };
+		04D9130900000000009FBF1A /* ViewModels/SettingsViewModel.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = ViewModels/SettingsViewModel.swift; sourceTree = "<group>"; };
+		04D9131000000000009FBF1A /* Views/Components/SectionHeaderView.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Views/Components/SectionHeaderView.swift; sourceTree = "<group>"; };
+		04D9131100000000009FBF1A /* Views/Components/QuickActionButton.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Views/Components/QuickActionButton.swift; sourceTree = "<group>"; };
+		04D9131200000000009FBF1A /* Views/Components/SurahRowView.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Views/Components/SurahRowView.swift; sourceTree = "<group>"; };
+		04D9131300000000009FBF1A /* Views/Components/SurahCardView.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Views/Components/SurahCardView.swift; sourceTree = "<group>"; };
+		04D9131400000000009FBF1A /* Views/Components/EmptyStateView.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; includeInIndex = 0; path = Views/Components/EmptyStateView.swift; sourceTree = "<group>"; };
+		04D9131500000000009FBF1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +47,16 @@
 			isa = PBXGroup;
 			children = (
 				04D907652FD476A8009FBF1A /* alquran */,
+				04D9130000000000009FBF1A /* alquranApp.swift */,
+				04D9130100000000009FBF1A /* ContentView.swift */,
+				04D9130200000000009FBF1A /* Models/QuranModels.swift */,
+				04D9130900000000009FBF1A /* ViewModels/SettingsViewModel.swift */,
+				04D9131000000000009FBF1A /* Views/Components/SectionHeaderView.swift */,
+				04D9131100000000009FBF1A /* Views/Components/QuickActionButton.swift */,
+				04D9131200000000009FBF1A /* Views/Components/SurahRowView.swift */,
+				04D9131300000000009FBF1A /* Views/Components/SurahCardView.swift */,
+				04D9131400000000009FBF1A /* Views/Components/EmptyStateView.swift */,
+				04D9131500000000009FBF1A /* Assets.xcassets */,
 				04D907642FD476A8009FBF1A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -109,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D9141500000000009FBF1A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

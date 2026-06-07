@@ -1,0 +1,23 @@
+{
+  "/Users/mac/swift/alquran/alquran/Views/MainTabView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/QuranView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/SearchView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.dia",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.swiftdeps"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mac/swift/alquran/alquran/Views/Components/SurahRowView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld ayahs",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 28
+        }
+      }
+    ]
+  },
+  "version": 1
+}

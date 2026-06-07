@@ -1,0 +1,229 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquran-primary.dia",
+    "emit-module-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquran-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquran-primary-emit-module.dia",
+    "pch" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquran-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquran-primary.swiftdeps"
+  },
+  "/Users/mac/swift/alquran/alquran/ContentView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Models/MockData.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MockData~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Models/QuranModels.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranModels~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Utilities/Theme.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/BookmarksViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/QuranViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/ViewModels/SettingsViewModel.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsViewModel~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/BookmarksView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/BookmarksView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/EmptyStateView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/EmptyStateView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/QuickActionButton.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuickActionButton~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/SectionHeaderView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SectionHeaderView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/SurahCardView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahCardView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/Components/SurahRowView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SurahRowView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/HomeView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/MainTabView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/QuranView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/QuranView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/SearchView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/Views/SettingsView.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/alquran/alquranApp.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/alquranApp~partial.swiftmodule"
+  },
+  "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac/swift/alquran/build/alquran.build/Debug-iphonesimulator/alquran.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
