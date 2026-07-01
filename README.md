@@ -2,6 +2,7 @@
 
 A production-ready SwiftUI Quran companion app with Quran API integration, audio playback, advanced search, daily verse features, notifications, caching, and resilient error handling.
 
+
 ## What’s included
 
 - Quran API integration using `api.alquran.cloud`
